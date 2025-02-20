@@ -1,0 +1,1 @@
+/projects/single-page-app
